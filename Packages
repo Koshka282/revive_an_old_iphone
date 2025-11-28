@@ -1,1 +1,9 @@
-#empety
+Package: applefileconduit2
+Name: Apple File Conduit 2
+Version: 1.0
+Architecture: iphoneos-arm
+Section: System
+Maintainer: Revive Repo
+Author: Revive Repo
+Description: Enables full filesystem access via USB (AFC2)
+Filename: debs/AppleFileCoundit2.deb
